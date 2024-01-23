@@ -3,7 +3,10 @@
 
 - Create React App
 - Configured Tailwindcss
-
+- Install react-router-dom
+- Header
+- Login Form
+- Sign Up Form
 
 
 
