@@ -47,6 +47,7 @@
 - Added .env file
 - Added .env file to gitignore
 - Made our site Responsive
+- Movie Page
 
 # Features
 
