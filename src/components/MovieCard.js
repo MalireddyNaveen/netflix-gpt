@@ -1,6 +1,6 @@
 import { useDispatch } from "react-redux";
 import { IMG_CDN_URL } from "../utils/constants";
-import { addPlayingMovie, addWatchMovieId } from "../utils/moviesSlice";
+import { addWatchMovieId } from "../utils/moviesSlice";
 import { Link } from "react-router-dom";
 
 const MovieCard = ({ movieId, posterPath }) => {
